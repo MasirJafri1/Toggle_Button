@@ -1,8 +1,11 @@
-# React + Vite
+# Toggle Switch Component
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple toggle switch component built using React and Tailwind CSS. This component allows users to switch between "ON" and "OFF" states with a visually appealing design.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Interactive Toggle Switch**: Click to toggle between ON and OFF states.
+- **Dynamic Background Color**: The background color changes based on the toggle state.
+- **Responsive Design**: Uses Tailwind CSS for a fully responsive and modern look.
+- **Smooth Transitions**: Includes smooth animations for both color and position changes.
+
